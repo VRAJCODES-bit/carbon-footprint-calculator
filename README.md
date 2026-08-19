@@ -1,4 +1,5 @@
 # Carbon Footprint Calculator
+🔗 **[Try it live](https://carbon-footprint-calculator-4pdshkc6r33pnqrkfazuzl.streamlit.app)**
 
 A simple Python command-line tool that estimates a person's yearly carbon
 footprint (in kg CO2e) based on electricity use, travel habits, and diet.
